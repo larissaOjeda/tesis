@@ -1,0 +1,14 @@
+catalog_applicant_dim 
+catalog_dim 
+catalog_enrollment_dim 
+catalog_order_dim 
+catalog_order_item_dim 
+catalog_payment_dim 
+catalog_product_dim 
+catalog_product_tag_dim 
+catalog_promotion_dim 
+catalog_tag_dim 
+catalog_user_registration_dim 
+grading_period_dim 
+grading_period_group_dim 
+grading_period_score_dim 
